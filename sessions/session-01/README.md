@@ -1,5 +1,7 @@
 # Session 1: Squares of data and the check digit
 
+[Session 1 — हिन्दी](README.hi.md)
+
 *Level 1 (conceptual interactive model) · about 60 minutes · openqrcode*
 
 > This is a simplified educational model. It is not a validated design tool and must not be used for real structures, electrical installations, vehicles, industrial processes or medical decisions.
